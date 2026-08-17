@@ -1,0 +1,9 @@
+numbers=[10,20,30,40,50]
+#len()
+print("len():",len(numbers))
+#max()
+print("max():",max(numbers))
+#min()
+print("min():",min(numbers))
+#sum()
+print("sum():",sum(numbers))
