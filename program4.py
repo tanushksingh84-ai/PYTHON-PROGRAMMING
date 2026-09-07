@@ -1,0 +1,5 @@
+print("Tanushk")
+print("2501920100619")
+tuple=(25,69,78,44,1110,27)
+print("Maximum element of tuple",max(tuple))
+print("minimum element of tuple",min(tuple))
